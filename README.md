@@ -10,11 +10,8 @@ ECMS.API is a collaborative two-person project consisting of three core applicat
 1. **Server-Side Development**  
    Implement server-side logic to handle requests, process data, and ensure application functionality.
 
-2. **API Development**  
-   Design and maintain secure APIs for communication between the frontend and backend.
-
-3. **Database Management**  
+2. **Database Management**  
    Create and optimize database schemas, ensuring data integrity and performance.
 
-4. **Testing and Debugging**  
+3. **Testing and Debugging**  
    Write unit tests and conduct integration testing to ensure reliability.
