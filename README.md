@@ -1,20 +1,20 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# ECMS.API 🚀
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## Overview
+ECMS.API is a collaborative two-person project consisting of three core applications:
+- **Web API** – Built using Clean Architecture with CQRS for structured and scalable backend development.
+- **Identity Server** – Implemented with Duende IdentityServer, serving as an Authentication as a Service (AaaS) solution for multiple projects.
+- **Frontend** – Developed with Blazor WebAssembly (WASM) for a modern and interactive client-side experience.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## My Role in the Project
+1. **Server-Side Development**  
+   Implement server-side logic to handle requests, process data, and ensure application functionality.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+2. **API Development**  
+   Design and maintain secure APIs for communication between the frontend and backend.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+3. **Database Management**  
+   Create and optimize database schemas, ensuring data integrity and performance.
+
+4. **Testing and Debugging**  
+   Write unit tests and conduct integration testing to ensure reliability.
